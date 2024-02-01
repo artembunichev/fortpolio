@@ -46,7 +46,12 @@
 	}
 	
 	.contact {
-		font-size: 12px;
+		font-size: 11px;
+	}
+	
+	#source_link {
+		width: 31px;
+		height : 30px;
 	}
 	
 }
@@ -63,7 +68,12 @@
 	}
 	
 	.contact {
-		font-size: 10px;
+		font-size: 9px;
+	}
+	
+	#source_link {
+		width: 25px;
+		height : 24px;
 	}
 	
 }

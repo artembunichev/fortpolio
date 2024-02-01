@@ -99,8 +99,16 @@ a {
 	margin : 12px 0;
 }
 
-#contacts{
+
+#summary_bottom
+{
+	display: flex;
+	align-items: center;
 	margin-top: 20px;
+}
+
+#contacts{
+	margin-left : auto;
 	text-align: center;
 }
 
@@ -111,5 +119,17 @@ a {
 
 #contacts_name {
 	margin-bottom: -7px;
+}
+
+
+#source_link{
+	display : block;
+	width: 46px;
+	height : 45px;
+	background-image: url("./img/github.svg");
+	background-position: center;
+	background-size: cover;
+	background-repeat : no-repeat;
+	margin-left : auto;
 }
 
